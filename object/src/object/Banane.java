@@ -11,4 +11,8 @@ public class Banane {
 	String getColor(){
 		return color;
 	}
+	
+	Integer getWeight(){
+		return weight;
+	}
 }
